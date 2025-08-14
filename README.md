@@ -1,4 +1,5 @@
 Libraries used: Pygame
-installation:
+
+Installation:
 - pip install pgzero
 - pip install pygame
